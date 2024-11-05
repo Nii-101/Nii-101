@@ -6,7 +6,7 @@ I'm an ALX Certified Software Engineer with experience working with various peop
 
 - 🌍  I'm based in Accra, Ghana
 - ✉️  You can contact me at [noelamptey101@gmail.com](mailto:noelamptey101@gmail.com)
-- 🧠  I'm learning new stuff to build what i want to
+- 🧠  I'm learning new stuff to build what i envision    
 - 🤝  I'm open to collaborating on projects that would push me beyond my current skillset
 - ⚡  The anime/music lover combo is undefeated 🙂‍↕️💯
 
