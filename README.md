@@ -2,7 +2,7 @@
 
 ## Frontend Developer
 
-I'm an ALX Certified Software Engineer with experience working with various people, teams as well as many frameworks and libraries like REACT, Tailwind and Axios
+I'm an ALX Certified Software Engineer with experience working with various people, teams as well as many frameworks and libraries like REACT, Vue, Tailwind...
 
 - 🌍  I'm based in Accra, Ghana
 - ✉️  You can contact me at [noelamptey101@gmail.com](mailto:noelamptey101@gmail.com)
